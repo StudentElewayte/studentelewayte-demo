@@ -1,4 +1,4 @@
 # studentelewayte-demo
 This is my first Git Repository.
 <br>
-Author -Ankit Kumar
+Author -Ankit Kumar (Learning Something)
